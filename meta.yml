@@ -38,8 +38,8 @@ requirements:
 
   run:
     - python
-    - conda-build
-    - anaconda-client
+    - scikit-image
+    - scipy
 
 test:
   # Python imports
